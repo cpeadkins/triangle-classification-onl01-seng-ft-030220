@@ -4,6 +4,8 @@ class Triangle
   def initialize (equilateral:, isosceles:, scalene:)
   end
 
-:equilateral, :isosceles, :scalene
+  class TriangleError < StandardError
+    # triangle error code
+  end
 
 end
