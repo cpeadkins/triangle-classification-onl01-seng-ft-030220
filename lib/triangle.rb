@@ -4,4 +4,6 @@ class Triangle
   def initialize (equilateral:, isosceles:, scalene:)
   end
 
+:equilateral, :isosceles, :scalene
+
 end
